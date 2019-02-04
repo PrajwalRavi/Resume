@@ -106,7 +106,7 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {Birla Institute of Technology and Science, Pilani} {India}
-      {Bachelor of Engineering in Computer Science;  CGPA: 9.096 / 10.0}{Aug. 2016 -- July. 2020}
+      {Bachelor of Engineering in Computer Science;  CGPA: 9.01 / 10.0}{Aug. 2016 -- July. 2020}
   \resumeSubHeadingListEnd
 
 
@@ -132,10 +132,10 @@
 
     \resumeSubheading
       {Malware Mitigation in IOT devices}{}
-      {Research project under Prof. Geethakumari}{August 2018 - Present}
+      {Ongoing Research project under Prof. Geethakumari}{}
       \begin{itemize}
-  		\item Collecting real-time banners of Telnet based attackers using IoTPOT, a Honeypot server mimicking IoT devices.
-  		\item Using neural networks to analyse the collected data.
+  		\item Collecting binaries of Telnet based attackers, cleaning and encoding the collected data.
+  		\item Using a Convolutional Neural Network based approach to classify collected binaries as malware or benign binaries.
 	  \end{itemize}
 	  
 	  \resumeSubheading
@@ -148,7 +148,7 @@
 	  \end{itemize}
 	  
 	  \resumeSubheading
-      {Movie Manager}{}
+      {Movie Database Manager}{}
       {Part of a team of 4 as part of Database Systems course}{}
       \begin{itemize}
         \item A multi-user based comprehensive movie management system.
@@ -170,15 +170,15 @@
 \begin{itemize}
 \item Object Oriented Programming \inlineitem Data Structures and Algorithms
 \inlineitem Database Systems \item Discrete Structures for Computer Science
-\inlineitem Microprocessors and Interfacing
-\item Information Retrieval (Ongoing) \inlineitem Foundations of Data Science (Ongoing)
+\inlineitem Operating Systems
+\item Information Retrieval \inlineitem Foundations of Data Science \inlineitem Programming languages
 \end{itemize}
   
 %--------PROGRAMMING SKILLS------------
 \section{Programming Skills}
   \resumeSubHeadingListStart
     \item{
-      \textbf{Languages}{: Java, C, C++, Python}
+      \textbf{Languages}{: Java, C, C++, Python 3}
     }
     \item{
       \textbf{Tools and Technologies}{: MySQL, Linux, Git, Bootstrap, Django, IntelliJ, PyCharm}

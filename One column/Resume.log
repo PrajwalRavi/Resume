@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.8.3)  6 OCT 2018 10:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.23)  19 JAN 2019 16:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**prajwal_resume.tex
-(./prajwal_resume.tex
+**Resume.tex
+(./Resume.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 5 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -216,9 +216,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \f@ncyO@orf=\skip56
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 38.
-
-(./prajwal_resume.aux)
-\openout1 = `prajwal_resume.aux'.
+ (./Resume.aux)
+\openout1 = `Resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
 LaTeX Font Info:    ... okay on input line 94.
@@ -263,9 +262,9 @@ LaTeX Info: Redefining \ref on input line 94.
 LaTeX Info: Redefining \pageref on input line 94.
 LaTeX Info: Redefining \nameref on input line 94.
 
-(./prajwal_resume.out) (./prajwal_resume.out)
+(./Resume.out) (./Resume.out)
 \@outlinefile=\write3
-\openout3 = `prajwal_resume.out'.
+\openout3 = `Resume.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 97.
@@ -291,28 +290,28 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 192.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 192.
- (./prajwal_resume.aux)
+ (./Resume.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 192.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 192.
-Package rerunfilecheck Info: File `prajwal_resume.out' has not changed.
+Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: 2C0D9E368E722F1B135A33F2F08838ED;294.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 192.
  ) 
 Here is how much of TeX's memory you used:
  6078 strings out of 494910
- 88850 string characters out of 6179837
+ 88746 string characters out of 6179835
  177904 words of memory out of 5000000
  9328 multiletter control sequences out of 15000+600000
  8606 words of font info for 32 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 29i,11n,43p,226b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,11n,43p,218b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on prajwal_resume.pdf (1 page, 88160 bytes).
+Output written on Resume.pdf (1 page, 88230 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
