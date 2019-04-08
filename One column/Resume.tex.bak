@@ -134,8 +134,8 @@
       {Malware Mitigation in IOT devices}{}
       {Ongoing Research project under Prof. Geethakumari}{}
       \begin{itemize}
-  		\item Collecting binaries of Telnet based attackers, cleaning and encoding the collected data.
-  		\item Using a Convolutional Neural Network based approach to classify collected binaries as malware or benign binaries.
+  		\item Collecting IoT malware and benign binary files and converting them to grayscale images.
+  		\item Using a Convolutional Neural Network based approach to classify the images using least minimum number of parameters, while maintaining a good accuracy.
 	  \end{itemize}
 	  
 	  \resumeSubheading
@@ -156,13 +156,6 @@
   		\item Used Java with MySQL and JavaFX for making the User Interface.
 	  \end{itemize}
 	   
-%	   \resumeSubheading
-%      {Youtube Video Downloader}{}
-%      {Personal project}{}
-%      \begin{itemize}
-%        \item GUI based application for downloading Youtube videos. Supports multiple formats and resolutions.
-%  		\item Made using Python and Tkinter.
-%	  \end{itemize}
   \resumeSubHeadingListEnd
 
 %--------RELEVANT COURSES------------
@@ -171,7 +164,7 @@
 \item Object Oriented Programming \inlineitem Data Structures and Algorithms
 \inlineitem Database Systems \item Discrete Structures for Computer Science
 \inlineitem Operating Systems
-\item Information Retrieval \inlineitem Foundations of Data Science \inlineitem Programming languages
+\item Information Retrieval \inlineitem Cryptography (Ongoing) \inlineitem Programming languages
 \end{itemize}
   
 %--------PROGRAMMING SKILLS------------

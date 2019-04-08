@@ -89,7 +89,6 @@
 \section{Links} 
 Github: \href{https://github.com/PrajwalRavi}{{PrajwalRavi}} \\
 LinkedIn:  \href{https://www.linkedin.com/in/prajwalravi/}{{PrajwalRavi}} \\
-Codeforces: \href{https://codeforces.com/profile/prjwl132}{{prjwl132}} \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -116,13 +115,6 @@ Java \textbullet{}  Python \textbullet{} C \textbullet{} C++ \textbullet{} \\
 \location{Tools and Frameworks:}
 Django \textbullet{} Bootstrap \textbullet{} IntelliJ \textbullet{} MySQL \\ \textbullet{} Git \textbullet{} Linux
 \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{awards}
-\textbullet{} Merit scholarship since 2 years for standing among the top 15 among 164 in the department.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -153,7 +145,7 @@ Django \textbullet{} Bootstrap \textbullet{} IntelliJ \textbullet{} MySQL \\ \te
 %     PROJECTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{PROJECTS}
+\section{Research}
 \runsubsection{Cornell Robot Learning Lab}
 \descript{| Head Undergrad Research}
 \location{Jan 2014 – Present | Ithaca, NY}
@@ -166,7 +158,19 @@ Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and 
 Lead the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. Publication submitted.
 \sectionsep
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\section{Awards} 
+\begin{tabular}{rll}
+2014	     & top 52/2500  & KPCB Engineering Fellow\\
+2014	     & 2\textsuperscript{nd} most points  & Google Code Jam, Qualification Round\\
+2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
+2013	     & National  & Jump Trading Challenge Finalist\\
+2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
+\end{tabular}
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SOCIETIES
